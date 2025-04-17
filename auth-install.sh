@@ -1,6 +1,5 @@
 #!/bin/bash
-# filepath: /home/gallo/Documents/WORK/Work/Userspace/auth-install.sh
-#
+
 # This script sets up Basic HTTP Authentication for PMSS when running under Nginx.
 # It assumes that user registration and password management are handled externally.
 # The script:
